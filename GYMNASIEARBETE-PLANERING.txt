@@ -1,0 +1,14 @@
+Vecka 41: Huvud karaktär med alla animationer och sprites ska vara klar denna vecka,
+Vecka 41–42: Klar med programmering till attack och kamera.
+Vecka 42: Standard fienden ska vara klar med alla sprites.
+Vecka 43: Standard fienden ska vara klar med alla sina animations.
+Vecka 44: Sprite för träd, mark, buskar och liknande ska vara klart. 
+Vecka 45:  Sprites och animationer klara till med parten av alla fiender.
+Vecka 45–46: programmering för block (försvar) ska vara klar. (huvudkaraktären).
+Vecka 48: Senaste veckan för att påbörja UI (meny) start meny.
+Vecka 51: Programmering för fiendens HP och attack (även så att fienden kan följa huvudkaraktären ska vara klart). Klar med Huvud menyn.
+Vecka 2: senast påbörjan av uppbyggnad av världen.
+Vecka 7: Klar med uppbyggnad av världen. Påbörjan av UI för (ingame).
+Vecka 10: Spelet ska vara klart så att vi kan finslipa.
+Vecka 10–12: Finslipning och fix ut av buggar 
+Vecka 12: Allt 100% Klart för inlämning.
